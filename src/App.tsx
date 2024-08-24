@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 function App() {
   useEffect(() => {
-    const _asad = {
+    const _fgdsfad = {
       1: 34234,
       2: 45243
     };
